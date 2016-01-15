@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Jinlong's Testing Site
+email: your-email@domain.com
+author: Jinlong
+description: This is Jinlong's testing site
+copyright: 'Copyright &copy; 2015 Jinlong. All Rights Reserved.'
+credits:
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url:
+  - title: github
+    url:
+  - title: linkedin
+    url: 
